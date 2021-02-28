@@ -511,6 +511,7 @@ en vez de tener 60px tendra 30px*/
                                             }
                                             .cont-work {
                                                 width: 85%;
+                                                font-size: 10px;
                                             }
                                             .marca-logo {
                                                 width: 80%;
@@ -520,6 +521,9 @@ en vez de tener 60px tendra 30px*/
                                             }
                                             .tamañoh3 {
                                                 font-size: 13px;
+                                            }
+                                            .filter {
+                                                font-size: 11px;
                                             }
                                         }
                                         
